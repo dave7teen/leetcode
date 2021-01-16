@@ -6,13 +6,16 @@ Categorized by [programcreek.com](https://www.programcreek.com/2013/08/leetcode-
 
 ### Simple Pointers
 
-[14. Longest Common Prefix](array-and-string/simple-pointers/14_Longest_Common_Prefix.py)
+[14. Longest Common Prefix](Array-and-string/Simple-pointers/14_Longest_Common_Prefix.py)
 
 ### Binary Search
-[35. Search Insert Position](array-and-string/binary-search/35_Search_Insert_Position.py)
+[35. Search Insert Position](Array-and-string/Binary-search/35_Search_Insert_Position.py)
 
-### Hash Map
-[242. Valid Anagram](array-and-string/hashmap/242_Valid_Anagram.py)
+### Hashmap
+[242. Valid Anagram](Array-and-string/Hashmap/242_Valid_Anagram.py)
+
+### Finding A Number
+[287. Find the Duplicate Number](Array-and-string/Finding-a-number/287_Find_the_Duplicate_Number.py)
 
 ## Matrix
 
